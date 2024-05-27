@@ -1,0 +1,5 @@
+Copilot/MidJourney：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| capa | Create an image featuring a futuristic blue cyber security shield with a podcast microphone symbol at the center, set against a backdrop of a digital cityscape with glowing neon lines and skyscrapers. The shield should have intricate circuit-like designs and icons representing blockchain security elements such as a lock, chain, key, and gear on its surface. The overall aesthetic should be sleek and modern, conveying a sense of advanced blockchain technology. |
