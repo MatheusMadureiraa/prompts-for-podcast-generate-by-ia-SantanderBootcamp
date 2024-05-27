@@ -21,7 +21,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma aula do Bootcamp Santander na plataforma [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -37,7 +37,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [Copilot] (https://copilot.microsoft.com/)
+- [Copilot](https://copilot.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 
 ## ✨ Como foi feito ?
